@@ -1,2 +1,3 @@
 python-telegram-bot
 instaloader
+yt_dlp
