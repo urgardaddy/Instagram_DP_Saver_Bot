@@ -73,7 +73,7 @@ def username(update, context):
 
 
 def source(update, context):
-    update.message.reply_text("You can get the source code of this bot here \n\n https://github.com/anishgowda21/Instagram_DP_Saver_Bot")
+    update.message.reply_text("You can get the source code of this bot here \n\n https://github.com")
 
 
 def error(update, context):
